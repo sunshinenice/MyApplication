@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hchlib/hchlib.iml" filepath="$PROJECT_DIR$/hchlib/hchlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httptest/httptest.iml" filepath="$PROJECT_DIR$/httptest/httptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
